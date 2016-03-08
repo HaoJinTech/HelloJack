@@ -1,0 +1,12 @@
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\switch_win.Form1.resources
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\switch_win.Properties.Resources.resources
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gong\Desktop\switch_win\switch_win\bin\Debug\switch_win.exe
+C:\Users\Gong\Desktop\switch_win\switch_win\bin\Debug\switch_win.pdb
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\switch_win.exe
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\switch_win.pdb
+C:\Users\Gong\Desktop\switch_win\switch_win\bin\Debug\switch_win.exe.config
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Gong\Desktop\switch_win\switch_win\obj\x86\Debug\ResGen.write.1.tlog
